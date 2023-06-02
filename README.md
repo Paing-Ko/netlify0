@@ -1,4 +1,4 @@
-# cr4RLJuR
+# Row Counter
 
 Quick start:
 
